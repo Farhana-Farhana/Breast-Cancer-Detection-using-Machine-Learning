@@ -161,7 +161,7 @@ Compares the accuracy of all implemented machine learning models.
 Displays the classification performance of the trained model.
 ![Confusion Matrix](log.png)
 ![Confusion Matrix](if.png)
-![Confusion Matrix](confusion_matrix_rf.png)
+![Confusion Matrix](rf.png)
 
 ---
 
