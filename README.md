@@ -159,8 +159,9 @@ Compares the accuracy of all implemented machine learning models.
 ### Confusion Matrix
 
 Displays the classification performance of the trained model.
-
-![Confusion Matrix](cm.png)
+![Confusion Matrix](Screenshot 2026-06-13 000858.png)
+![Confusion Matrix](Screenshot 2026-06-13 000912.png)
+![Confusion Matrix](confusion_matrix_rf.png)
 
 ---
 
