@@ -152,7 +152,7 @@ Analyze the most important features using Random Forest.
 
 Compares the accuracy of all implemented machine learning models.
 
-![Accuracy Comparison](accuracy.png)
+![Accuracy Comparison](accuracy_comparison.png)
 
 ---
 
