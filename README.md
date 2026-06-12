@@ -203,42 +203,6 @@ Provides detailed information about:
 
 ---
 
-## How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Breast-Cancer-Detection-ML.git
-```
-
-### Navigate to Project Directory
-
-```bash
-cd Breast-Cancer-Detection-ML
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-breast_cancer_detection.ipynb
-```
-
-and run all cells.
-
----
-
 ## Future Improvements
 
 - Hyperparameter Tuning
