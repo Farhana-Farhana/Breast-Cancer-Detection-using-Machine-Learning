@@ -168,7 +168,7 @@ Displays the classification performance of the trained model.
 
 Shows the top features contributing to breast cancer prediction.
 
-![Feature Importance](fi.png)
+![Feature Importance](imp feat.png)
 
 ---
 
